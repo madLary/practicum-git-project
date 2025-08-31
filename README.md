@@ -1,2 +1,2 @@
-# -practicum-git-project
-Repo for yandex.practicum git proj
+# practicum-git-project
+Проект "обучение с учителем"
